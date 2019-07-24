@@ -1,0 +1,4 @@
+dns.example.com
+dns2.exmplae.com
+sonic.dns.example.com
+
